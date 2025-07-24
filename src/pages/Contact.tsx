@@ -28,8 +28,8 @@ const contactInfo = [
   {
     icon: Linkedin,
     label: 'LinkedIn',
-    value: 'linkedin.com/in/rajavel-t-24b796208',
-    href: 'https://linkedin.com/in/rajavel-t-24b796208'
+    value: 'linkedin.com/in/rajavel-t-24b79620a',
+    href: 'https://linkedin.com/in/rajavel-t-24b79620a'
   }
 ];
 
